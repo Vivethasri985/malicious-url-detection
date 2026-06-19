@@ -24,7 +24,7 @@ This project presents a **hybrid ML/DL framework** that detects malicious URLs w
 | Amitha Mahesh | Co-author |
 | Nitheka A | Co-author |
 | S Shivvanii | Co-author |
-| C Vivethasri | Co-author |
+| Vivethasri C | Co-author |
 | S Manimaran | Co-author |
 
 ---
