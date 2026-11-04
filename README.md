@@ -1,6 +1,6 @@
 # 🔐 An Explainable ML & DL Framework for Malicious URL Detection
 
-> Presented at **ICMLDE 2025** | Publication forthcoming
+> Presented at **ICMLDE 2025** | Published in : ![Procedia Computer Science, 2026 - Elsevier](https://www.sciencedirect.com/science/article/pii/S1877050926018685)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Best%20Model-green?style=flat-square)
